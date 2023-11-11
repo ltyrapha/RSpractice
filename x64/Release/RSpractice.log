@@ -1,0 +1,22 @@
+﻿生成启动时间为 2022/1/12 11:36:02。
+     1>项目“C:\Users\12725\Desktop\地信_13_王汝君罗婷瑜_遥感实习C++\源代码\RSpractice\RSpractice\RSpractice.vcxproj”在节点 2 上(Build 个目标)。
+     1>项目“C:\Users\12725\Desktop\地信_13_王汝君罗婷瑜_遥感实习C++\源代码\RSpractice\RSpractice\RSpractice.vcxproj”(1)正在节点 2 上生成“C:\Users\12725\Desktop\地信_13_王汝君罗婷瑜_遥感实习C++\源代码\RSpractice\RSpractice\RSpractice.vcxproj”(1:2) (Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Ix64\Release\uic /Ix64\Release\moc /I"..\3rdparty\gdal-2.3.3_build_x64\include" /I"..\3rdparty\armadillo-9.500.2\include" /I"C:\Users\12725\Desktop\junjun and yuyu\RSpractice\RSpractice\RSpractice\x64\Release\qmake\temp" /ID:\Qt\Qt5.9.3\5.9.3\msvc2015_64\include /ID:\Qt\Qt5.9.3\5.9.3\msvc2015_64\include\QtWidgets /ID:\Qt\Qt5.9.3\5.9.3\msvc2015_64\include\QtGui /ID:\Qt\Qt5.9.3\5.9.3\msvc2015_64\include\QtANGLE /ID:\Qt\Qt5.9.3\5.9.3\msvc2015_64\include\QtCore /I"D:\Qt\Qt5.9.3\5.9.3\msvc2015_64\mkspecs\win32-msvc" /Ix64\Release\moc /Ix64\Release\uic /Zi /nologo /W1 /WX- /MP /Od /D UNICODE /D _UNICODE /D WIN32 /D WIN64 /D QT_NO_DEBUG /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D NDEBUG /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt RSpractice.cpp
+         RSpractice.cpp
+     1>c:\users\12725\desktop\地信_13_王汝君罗婷瑜_遥感实习c++\源代码\rspractice\rspractice\rspractice.cpp(1155): warning C4700: 使用了未初始化的局部变量“count”
+     1>c:\users\12725\desktop\地信_13_王汝君罗婷瑜_遥感实习c++\源代码\rspractice\rspractice\rspractice.cpp(1208): warning C4700: 使用了未初始化的局部变量“count”
+     1>c:\users\12725\desktop\地信_13_王汝君罗婷瑜_遥感实习c++\源代码\rspractice\rspractice\rspractice.cpp(1261): warning C4700: 使用了未初始化的局部变量“count”
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\12725\Desktop\地信_13_王汝君罗婷瑜_遥感实习C++\源代码\RSpractice\x64\Release\RSpractice.exe" /NOLOGO /LIBPATH:"..\3rdparty\gdal-2.3.3_build_x64\lib" /LIBPATH:"..\3rdparty\armadillo-9.500.2\lib" /LIBPATH:D:\Qt\Qt5.9.3\5.9.3\msvc2015_64\lib /LIBPATH:C:\utils\my_sql\my_sql\lib /LIBPATH:C:\utils\postgresql\pgsql\lib gdal_i.lib blas_win64_MT.lib lapack_win64_MT.lib D:\Qt\Qt5.9.3\5.9.3\msvc2015_64\lib\qtmain.lib shell32.lib D:\Qt\Qt5.9.3\5.9.3\msvc2015_64\lib\Qt5Widgets.lib D:\Qt\Qt5.9.3\5.9.3\msvc2015_64\lib\Qt5Gui.lib D:\Qt\Qt5.9.3\5.9.3\msvc2015_64\lib\Qt5Core.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\12725\Desktop\地信_13_王汝君罗婷瑜_遥感实习C++\源代码\RSpractice\x64\Release\RSpractice.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\12725\Desktop\地信_13_王汝君罗婷瑜_遥感实习C++\源代码\RSpractice\x64\Release\RSpractice.lib" /MACHINE:X64 x64\Release\RSpractice.res
+         x64\Release\RSpractice.obj
+         x64\Release\main.obj
+         x64\Release\qrc_RSpractice.obj
+         x64\Release\moc_RSpractice.obj
+         RSpractice.vcxproj -> C:\Users\12725\Desktop\地信_13_王汝君罗婷瑜_遥感实习C++\源代码\RSpractice\x64\Release\RSpractice.exe
+     1>已完成生成项目“C:\Users\12725\Desktop\地信_13_王汝君罗婷瑜_遥感实习C++\源代码\RSpractice\RSpractice\RSpractice.vcxproj”(Build 个目标)的操作。
+     1>已完成生成项目“C:\Users\12725\Desktop\地信_13_王汝君罗婷瑜_遥感实习C++\源代码\RSpractice\RSpractice\RSpractice.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.84
